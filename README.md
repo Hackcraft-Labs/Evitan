@@ -16,7 +16,7 @@ Backdooring a system with Evitan requires a way to:
 
 ## Inner Workings
 
-Evitan's inner workings are described in its accompanying blog post which can be found [here](https://hackcraft.gr/blog).
+Evitan's inner workings are described in its accompanying blog post which can be found [here](https://www.hackcraft.gr/2024/12/a-native-application-subsystem-backdoor/).
 
 ## References / Prior Research
 - [Pavel's NativeApps](https://github.com/zodiacon/NativeApps)
