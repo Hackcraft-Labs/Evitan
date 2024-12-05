@@ -27,6 +27,6 @@ Evitan's inner workings are described in its accompanying blog post which can be
 
 This code and the blog post are provided only as a POC and are not expected to be production-grade, bug-free code. Please take this into consideration before utilizing Evitan. Moreover, the NativeRun application included in the Evitan project (utilized for easily running Native Applications for testing purposes) is borrowed from [Pavel's NativeApps project](https://github.com/zodiacon/NativeApps). It is not required for running Evitan and is only included to facilitate its testing (all credits regarding NativeRun go to the original author).
 
-### Community
+## Community
 
 Join the Hackcraft community discord server [here](https://discord.gg/KZZfsnQsja). On the server you can receive support and discuss issues related to Evitan.
